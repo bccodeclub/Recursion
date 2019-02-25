@@ -2,8 +2,11 @@
 ### Starter:
 Create an algorithm which creates a fibonacci number.
 The sequence is 
-n - 0 1 2 3 4 5 6
-f - 1,1,2,3,5,8,13
+
+n | 0 | 1 | 2 | 3 | 4 | 5 | 6
+--- | --- | --- | --- | --- | --- | --- | --- 
+f | 1 | 1 | 2 | 3 | 5 | 8 | 13
+
 Make an algorithm which:
 Inputs a n value and output the corresponding f value.
 
