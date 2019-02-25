@@ -26,7 +26,7 @@ Input: The height of the tower, n
 
 Output: The instructions of how to move the disc to achieve the desired position.
 The instructions should be in the form,
-`a -> b`
+```a -> b```
 where a, b, c are the names of the pegs from left to right
 
 ![](http://www.codenuclear.com/wp-content/uploads/2017/08/Tower_of_Hanoi.jpg)
