@@ -22,8 +22,20 @@ Recursion is a function which calls upon itself. It splits the problem up into a
 Solve Tower of Hanoi
 https://www.mathsisfun.com/games/towerofhanoi.html
 
+Input: The height of the tower, n
+Output: The instructions of how to move the disc to achieve the desired position.
+The instructions should be in the form,
+`a -> b`
+where a, b, c are the names of the pegs from left to right
+
+![](http://www.codenuclear.com/wp-content/uploads/2017/08/Tower_of_Hanoi.jpg)
+
 ### Extension:
 8 Queen Problem
+![](https://letstalkdata.com/wp-content/uploads/2015/08/8q_solved.png)
+
+Input: The dimension of the board (Squares in a length of board), n
+Output: A way to arrange the queens without them 'killing each other'. Print out the coordinates of each queen in the successful arrangement, with the top-left square being (0,0)
 
 ### Finisher:
 Talk on Text Based Games which was talked about before half term.
