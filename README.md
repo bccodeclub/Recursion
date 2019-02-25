@@ -33,11 +33,12 @@ where a, b, c are the names of the pegs from left to right
 
 ### Extension:
 8 Queen Problem
-![](https://letstalkdata.com/wp-content/uploads/2015/08/8q_solved.png)
 
 Input: The dimension of the board (Squares in a length of board), n
 
 Output: A way to arrange the queens without them 'killing each other'. Print out the coordinates of each queen in the successful arrangement, with the top-left square being (0,0)
+
+![](https://letstalkdata.com/wp-content/uploads/2015/08/8q_solved.png)
 
 ### Finisher:
 Talk on Text Based Games which was talked about before half term.
