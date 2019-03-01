@@ -31,7 +31,7 @@ where a, b, c are the names of the pegs from left to right
 
 ![](http://www.codenuclear.com/wp-content/uploads/2017/08/Tower_of_Hanoi.jpg)
 
-### Extension:
+### If you've finished:
 8 Queen Problem
 
 Input: The dimension of the board (Squares in a length of board), n
@@ -39,6 +39,12 @@ Input: The dimension of the board (Squares in a length of board), n
 Output: A way to arrange the queens without them 'killing each other'. Print out the coordinates of each queen in the successful arrangement, with the top-left square being (0,0)
 
 ![](https://letstalkdata.com/wp-content/uploads/2015/08/8q_solved.png)
+
+https://cdnjs.cloudflare.com/ajax/libs/p5.js/0.7.3/addons/p5.dom.js
+
+This is the cdn for p5.js: https://p5js.org/get-started/
+
+Attempt a fractal tree. 
 
 ### Finisher:
 Talk on Text Based Games which was talked about before half term.
